@@ -61,4 +61,6 @@
 - Evaluated using *accuracy*
 - Avchieved an accuracy of 80.09%
 - Confusion Matrix:
-(https://github.com/AnandBallure/Razorpay-Churn-Prediction/blob/main/Churn.png)
+![](https://github.com/AnandBallure/Razorpay-Churn-Prediction/blob/main/Churn.png)
+- Classification Report:
+![](https://github.com/AnandBallure/Razorpay-Churn-Prediction/blob/main/Classification%20Report.png)

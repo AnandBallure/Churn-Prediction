@@ -59,4 +59,4 @@
 ## Results and Evaluation
 - Made predictions on the test data 
 - Evaluated using *accuracy*
-- Avchieved an accuracy of 
+- Avchieved an accuracy of 80.09%

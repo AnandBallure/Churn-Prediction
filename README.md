@@ -60,3 +60,5 @@
 - Made predictions on the test data 
 - Evaluated using *accuracy*
 - Avchieved an accuracy of 80.09%
+- Confusion Matrix:
+(https://github.com/AnandBallure/Razorpay-Churn-Prediction/blob/main/Churn.png)

@@ -1,4 +1,4 @@
-# Razorpay-Churn-Prediction
+# Churn-Prediction
 
 ## Dependencies:
 - PyCaret
